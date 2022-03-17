@@ -1,0 +1,37 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+  background-color: bisque;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: 15px;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+
+  background-color: blueviolet;
+  padding: 16px;
+  margin: 16px;
+
+  border-radius: 12px;
+}
+
+#signUp-signIn {
+  background-color: rgb(197, 224, 248);
+  position: absolute;
+  display: inline-block;
+
+  padding: 32px;
+  margin: 16px 0px;
+}
+
